@@ -1,5 +1,5 @@
 # AI-Assisted Workout Planner
-
+![Alt Text](<img width="956" height="1692" alt="image" src="https://github.com/user-attachments/assets/2d57b476-13b9-4cf2-b458-b4d2304a84b0" />)
 ## Project Overview
 This project is a desktop application that allows users to create, manage, and track their workouts.  
 The system also integrates AI-inspired features that provide workout suggestions and feedback, which users can review and adjust.

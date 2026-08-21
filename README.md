@@ -1,5 +1,10 @@
 # AI-Assisted Workout Planner
-![Alt Text](<img width="956" height="1692" alt="image" src="https://github.com/user-attachments/assets/2d57b476-13b9-4cf2-b458-b4d2304a84b0" />)
+<p align="center">
+  <img width="200" alt="Login Page" src="Resources/LockedIn%20App%20Screenshots/final%20app/profile-page-2.png" />
+  <img width="200" alt="Meal Page" src="Resources/LockedIn%20App%20Screenshots/final%20app/meal-page-1.png" />
+  <img width="200" alt="Workout Weekly Summary" src="Resources/LockedIn%20App%20Screenshots/final%20app/workout-weekly-summary-page.png" />
+  <img width="200" alt="Calories and Macros Chart" src="Resources/LockedIn%20App%20Screenshots/final%20app/calories-and-macros-chart%20-%201.png" />
+</p>
 ## Project Overview
 This project is a desktop application that allows users to create, manage, and track their workouts.  
 The system also integrates AI-inspired features that provide workout suggestions and feedback, which users can review and adjust.

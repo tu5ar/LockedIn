@@ -75,4 +75,4 @@ The system is designed to function even without AI.
 | Kasper Hendriks | Kipkangaroo    |
 | Mimi Nguyen     | mimikkyyu      |
 | Sherab Zangmo   | sherab-zangmo  |
-| Tusar Paudel    | ptusar         |
+| Tusar Paudel    | tu5ar          |
